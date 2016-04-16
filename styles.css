@@ -1,0 +1,22 @@
+body{
+    font-family: 'Carter One', cursive; 
+}
+.read{
+    color: blue;
+}
+.red{
+    color: red
+}
+.r{
+    color: orange
+}
+
+.container{
+    padding:20px;
+    background: coral;
+    margin:30px;
+}
+
+#bluecontainer{
+    background: yellow;
+}
